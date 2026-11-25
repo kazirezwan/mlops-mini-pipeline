@@ -1,0 +1,12 @@
+{
+  "full_dataset": {
+    "worst_feature": "malic_acid",
+    "worst_psi": 0.0332,
+    "drift": "none"
+  },
+  "alcohol_plus_2": {
+    "worst_feature": "alcohol",
+    "worst_psi": 5.5627,
+    "drift": "major"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "requests": 1000,
+  "batch": 1,
+  "throughput_rps": 411.2,
+  "p50_ms": 2.31,
+  "p95_ms": 2.95,
+  "p99_ms": 4.64
+}

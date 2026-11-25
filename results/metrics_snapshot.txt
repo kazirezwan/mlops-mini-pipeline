@@ -1,0 +1,6 @@
+mlpipe_predict_status_200_total 1301
+mlpipe_predict_status_422_total 1
+mlpipe_rows_predicted_total 31001
+mlpipe_predict_latency_ms{quantile="0.5"} 1.370
+mlpipe_predict_latency_ms{quantile="0.95"} 2.682
+mlpipe_predict_latency_ms{quantile="0.99"} 3.261
